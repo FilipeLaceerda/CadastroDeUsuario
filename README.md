@@ -1,2 +1,2 @@
 # CadastroDeUsuario
- Cadastro de Usúario feito com react e json server
+ ## Cadastro de usúarios usando react e json server como backend da aplicação!
